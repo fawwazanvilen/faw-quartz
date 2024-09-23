@@ -8,4 +8,4 @@ List of shoulds
 - KPU should let daerahs experiment with voting mechanisms
 
 Favorite Reforms for DPR
-- 
+- Internal Fractie voting mechanism

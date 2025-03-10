@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Here's some things that I think should be given more patronage. Note that this is heavily biased and reflects my taste in things.
 
 - A brass band that plays military marches from around the world

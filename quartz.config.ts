@@ -33,28 +33,54 @@ const config: QuartzConfig = {
         body: "Inter",
         code: "JetBrains Mono",
       },
+      // default colors
+      // colors: {
+      //   lightMode: {
+      //     light: "#faf8f8",
+      //     lightgray: "#e5e5e5",
+      //     gray: "#b8b8b8",
+      //     darkgray: "#4e4e4e",
+      //     dark: "#2b2b2b",
+      //     secondary: "#284b63",
+      //     tertiary: "#84a59d",
+      //     highlight: "rgba(143, 159, 169, 0.15)",
+      //     textHighlight: "#fff23688",
+      //   },
+      //   darkMode: {
+      //     light: "#161618",
+      //     lightgray: "#393639",
+      //     gray: "#646464",
+      //     darkgray: "#d4d4d4",
+      //     dark: "#ebebec",
+      //     secondary: "#7b97aa",
+      //     tertiary: "#84a59d",
+      //     highlight: "rgba(143, 159, 169, 0.15)",
+      //     textHighlight: "#b3aa0288",
+      //   },
+      // },
+      // sunset vibes
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fffcf9",
+          lightgray: "#ede3d9",
+          gray: "#c4b1a2",
+          darkgray: "#7d6b5d",
+          dark: "#352b24",
+          secondary: "#e07a5f", // terracotta
+          tertiary: "#f2cc8f", // warm yellow
+          highlight: "rgba(224, 122, 95, 0.15)",
+          textHighlight: "#81b29a88", // sage
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#2b2427",
+          lightgray: "#3d353a",
+          gray: "#7a6c75",
+          darkgray: "#d8c9d3",
+          dark: "#f5ecf1",
+          secondary: "#e07a5f", // terracotta
+          tertiary: "#f2cc8f", // warm yellow
+          highlight: "rgba(242, 204, 143, 0.15)",
+          textHighlight: "#81b29a44", // sage
         },
       },
     },

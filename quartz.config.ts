@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Faw's Notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,17 +16,22 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "notes.fawwaz.anvilen.space",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
+      // typography: {
+      //   header: "Schibsted Grotesk",
+      //   body: "Source Sans Pro",
+      //   code: "IBM Plex Mono",
+      // },
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Space Grotesk",
+        body: "Inter",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {

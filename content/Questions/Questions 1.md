@@ -24,12 +24,13 @@ This week's #2025w11 theme is on some policy-relevant questions around Indonesia
 2. What's the economic impact of Indonesia's **[cabotage](https://en.wikipedia.org/wiki/Cabotage) laws**?
 	- The US has a version of this law - **[Jones Act](https://en.wikipedia.org/wiki/Merchant_Marine_Act_of_1920)** - that's seen a [growing](https://www.cato.org/project-jones-act-reform) [resistance](https://www.niskanencenter.org/the-ghosts-of-navies-past-rebooting-the-jones-act-for-the-21st-century/) as it makes domestic shipping much more expensive vs a comparable international shipping arrangement, essentially due to protection.
 	- As I understand it, Jones Act is much more restrictive in its form, requiring all domestic shipping to be performed by US-built, US-owned, US-flagged, and US-crewed vessels.
-	- I'm not familiar with how this restriction on cabotage is implemented in Indonesia. 
+	- I'm not familiar with how this restriction on cabotage is implemented in Indonesia. It seems like up until 2005 no restrictions for foreign ships for cabotage were put in place. The relevant authorities seem to refer to the restriction as part of "implementing the cabotage principle", which is vague.
 
 ---
 
 3. Apparently Indonesia's **internal migration rate** is one of the lowest in the world, why is this the case?
-	- Assuming that wage-differentials between regions would push the rate of 
+	- Assuming that wage-differentials between regions would push the rate of the 
+	- Dana Desa, does it incentivize the creation of Desa? apparently not (!?)
 
 ---
 

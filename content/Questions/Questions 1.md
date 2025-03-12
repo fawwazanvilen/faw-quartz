@@ -6,28 +6,37 @@ This week's #2025w11 theme is on some policy-relevant questions around Indonesia
 
 ---
 
-1. Is there a **risk-premium** that investors take when investing in SOEs vs private-sector firms? If so, by how much? How much in Indonesia?
+1. Is there a **risk-premium** that investors take when investing in SOEs vs private-sector firms? If so, by how much? How much larger particularly in Indonesia?
+	- A quite illustrative example is that on IDX, [BBCA](https://www.google.com/finance/quote/BBCA:IDX) (*the* largest Indonesian private bank) has a market cap that's similar to the market caps of the 4 big state-owned banks ([BBRI](https://www.google.com/finance/quote/BBRI:IDX), [BMRI](https://www.google.com/finance/quote/BMRI:IDX), [BBNI](https://www.google.com/finance/quote/BBNI:IDX), [BBTN](https://www.google.com/finance/quote/BBTN:IDX) - collectively known as Himbara) **combined**.
+		- which feels nuts at first? The Himbara banks feel totally dominant on the market.
 	- Particularly relevant as [Danantara](https://en.wikipedia.org/wiki/Danantara) - a new, much larger SWF - is being formed by Prabowo.
-	- My gut says the answer is **yes**, due to the obvious concerns about political interference in corporate governance, and the explicitly-stated non-profit-making goals of SOEs (Pasal 2 [Undang-Undang BUMN](https://peraturan.bpk.go.id/Details/314622/uu-no-1-tahun-2025))
+	- My gut says the answer is **yes**, due to the obvious concerns about political interference in corporate governance, and the explicitly-stated non-profit-making goals of SOEs (Pasal 2 [Undang-Undang BUMN](https://peraturan.bpk.go.id/Details/314622/uu-no-1-tahun-2025)). What makes Danantara different is that you're essentially making these SOEs tightly linked under one management, with even more highly-correlated risks, creating fewer critical points of failure ([bus factor](https://en.wikipedia.org/wiki/Bus_factor)).
 	- Relevant Manifold Market questions:
 		- [Danantara acquires a non-Indonesian company valued at >$1B by end of 2025 | Manifold](https://manifold.markets/FawwazAnvilen/danantara-acquires-a-nonindonesian?play=true)
 		- [Danantara SOEs outperform IDX Composite by >5% within 12 months of Feb 24, 2025 consolidation | Manifold](https://manifold.markets/FawwazAnvilen/danantara-soes-outperform-idx-compo)
-	- Another interesting question: 
+	- Another interesting question on Danantara: Danantara is formed through UU No. 1 2025 (amendments to the original UU No. 19 2003 on SOEs). But the article only mentions vaguely a *Badan Pengelola Investasi* (though explicitly named as Daya Anagata Nusantara) with some pretty specific constraints on what they will be required to do.
+		- The question is that with these constraints, what are some possible ways that Danantara could look like, ie. **what does the possible solution-space of Danantara look like? which are taut and slack constraints?**
+		- [Guntur](https://twitter.com/gunturiksuryadi) mentioned in passing in a convo that the *specific* form of legal body for this *Badan* is not-specified. So it might be totally possible to have Danantara as a partnership (*Firma*) or CV.
+	- Some meta commentary: the Indonesian legal community needs to find a better way of doing amendments than the constant amendments on top of amendments. Please just [amend in full](https://legisinfo.com/2024/04/07/transparent-legislation-should-be-easy-to-read-part-ii/) & reenact the specific statutes!
 
 ---
 
 2. What's the economic impact of Indonesia's **[cabotage](https://en.wikipedia.org/wiki/Cabotage) laws**?
-	- the US has a version of this law - **[Jones Act](https://en.wikipedia.org/wiki/Merchant_Marine_Act_of_1920)** - that's seen a [growing](https://www.cato.org/project-jones-act-reform) [resistance](https://www.niskanencenter.org/the-ghosts-of-navies-past-rebooting-the-jones-act-for-the-21st-century/) as it makes domestic shipping much more expensive vs a comparable international shipping arrangement, essentially due to protection.
-	- as I understand it, Jones Act is much more restrictive in its form, requiring all domestic shipping to be performed by US-built, US-owned, US-flagged, and US-crewed vessels.
-	- 
+	- The US has a version of this law - **[Jones Act](https://en.wikipedia.org/wiki/Merchant_Marine_Act_of_1920)** - that's seen a [growing](https://www.cato.org/project-jones-act-reform) [resistance](https://www.niskanencenter.org/the-ghosts-of-navies-past-rebooting-the-jones-act-for-the-21st-century/) as it makes domestic shipping much more expensive vs a comparable international shipping arrangement, essentially due to protection.
+	- As I understand it, Jones Act is much more restrictive in its form, requiring all domestic shipping to be performed by US-built, US-owned, US-flagged, and US-crewed vessels.
+	- I'm not familiar with how this restriction on cabotage is implemented in Indonesia. 
 
 ---
 
 3. Apparently Indonesia's **internal migration rate** is one of the lowest in the world, why is this the case?
 	- Assuming that wage-differentials between regions would push the rate of 
 
+---
+
 4. Why have **Special Economic Zones** largely failed in Indonesia when they worked so well elsewhere in Asia?
 	- 
+
+---
 
 5. Is there a **shortage of doctors** in Indonesia? Is IDI (the Indonesian Medical Association) acting like a cartel in this regard? 
 	- IDI against expanding the presence of foreign doctors in Indonesia.

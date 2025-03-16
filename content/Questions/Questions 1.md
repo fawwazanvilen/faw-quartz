@@ -1,7 +1,3 @@
----
-socialImage: "Pasted image 20250316221720.png"
----
-
 In [[Questions/]], I want to pose questions every week, to **frame my week** around exploring answers to those questions.
 
 In the spirit of [[Why build scenes?|scene-making]], I'm offering a **150k IDR [[Translating Money to Things is Surprisingly Hard|bounty]] (~10 USD - i know, but it's ~40 USD-int)** for anyone who answers any one of these questions publicly (be it in a Twitter thread, or a long-form post, etc.)

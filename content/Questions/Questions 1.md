@@ -1,3 +1,10 @@
+---
+title: "Questions 1"
+created: "2025-03-10"
+published: "2025-03-10"
+modified: "2025-03-16"
+---
+
 In [[Questions/]], I want to pose questions every week, to **frame my week** around exploring answers to those questions.
 
 In the spirit of [[Why build scenes?|scene-making]], I'm offering a **150k IDR [[Translating Money to Things is Surprisingly Hard|bounty]] (~10 USD - i know, but it's ~40 USD-int)** for anyone who answers any one of these questions publicly (be it in a Twitter thread, or a long-form post, etc.)
@@ -105,7 +112,6 @@ Before we start, here's a cute dog. We love cute animals around here 😤.
 	- A natural question to further ask - which [Guntur](https://twitter.com/gunturiksuryadi) raised in discussion with me - Is TV access just a proxy for proximity to developed areas? If so, the apparent negative relationship between TV exposure and migration might be confounded.
 		- The study solves this by adding a "free-space signal strength" (signal strength without topological obstacles) as a control for distance to nearest TV transmitter, with a "predicted signal strength" which measure the *actual* signal taking into account topography and isolates the actual effect of TV reception to migration.
 		- Also by using TV reception, and not TV ownership or time spent watching TV, they overcome concerns about wealthier households being more likely to have TVs and therefore less likely to migrate.
-	- 
 %% - discuss this funny results from farre & fasani 2013 (Media exposure and internal migration — Evidence from Indonesia☆) - "This paper investigates the impact of television on internal migration in Indonesia. We exploit the differential introduction of private television throughout the country and the variation in signal reception due to topography to estimate the causal effect of media exposure. Our estimates reveal important long and short run effects. An increase of one standard deviation in the number of private TV channels received in the area of residence as an adolescent reduces future inter-provincial migration by 1.7–2.7 percentage points, and all migration (inter and intra-provincial) by 3.9–6.8 percentage points. Short run effects are similar in magnitude. We also show that respondents less exposed to private television are more likely to consider themselves among the poorest groups in society. As we discuss in a stylized model of migration choice under imperfect information, these findings are consistent with Indonesian citizens over-estimating the net gains from internal migration when access to television is limited." - hahahahah maybe make a quiz
 	- i haven't read this in full - but guntur's response is to ask if the result is confounded by the fact that as you get closer to the more developed areas, you'll have better access to television?
  %%

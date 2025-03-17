@@ -1,5 +1,11 @@
-#2025w12 
-#stub 
+---
+title: "Questions 2"
+created: "2025-03-17"
+published:
+modified:
+tags: 2025w12, stub
+---
+
 to be filled
 %% ---
 

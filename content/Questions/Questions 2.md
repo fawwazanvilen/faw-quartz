@@ -9,6 +9,16 @@ tags: 2025w12, stub
 to be filled
 %% ---
 
+# Q1 - How much does it cost to have a good enough Lidar model of Jakarta?
+
+
+# Q2 - How much does it cost Jakarta to have empty lands near MRT?
+
+# Q3 - How much does it cost to maintain Jakarta's security theater? What's the benefit if any?
+
+
+
+
 4. Why have **Special Economic Zones** largely failed in Indonesia when they worked so well elsewhere in Asia?
 	- adsfasdfasd
 

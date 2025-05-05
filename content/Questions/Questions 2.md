@@ -8,10 +8,42 @@ tags: 2025w12, stub
 
 Hey folks, thanks for \**check notes*\* ... waiting two months for the supposedly weekly series of [[Questions/]] to frame my week.
 
-This week's questions will be Gojek-adjacent (you'll see what I mean). So, without further ado, ...
+This week's I will pose three [Gojek](https://en.wikipedia.org/wiki/Gojek)-adjacent questions. Why specifically Gojek? Well, though you can pose similar questions in the context of other large successful companies/private endeavors in Indonesia, Gojek represents one of the most successful in recent memories. There's this incredible (relative) concentration of talent, capital, and resources, with a culture driven by impact, that solves real problem for millions of people in Southeast Asia ... such that it's often kinda [weird](https://www.readthesequences.com/Noticing-Confusion-Sequence) to see the [founders](https://samoburja.com/gft/) of Gojek not solve the local [civilizational inadequacy](https://equilibriabook.com/an-equilibrium-of-no-free-energy/#:~:text=as%20you%20do.%E2%80%9D-,Adequacy,-%3A%20%E2%80%9COkay%2C%20the%20medical) that exists around them (or at least, not make a public ). So, without further ado, ...
 
-# Q1 - What explains 
+
+
+# Q1 - What explains the rituals forming behind gig-driver communities in Indonesia?
+- 'explains' is doing a lot of work here, and there are several interconnected questions behind the question above, which include
+	- dsaf
+- Not all information in the market are conveyed through price, 
+	- why does algorithmic management feel so oppressive? alienation
+- Network-effect monopolies are not that free market as they'd like to present themselves
+	- they are biasing themselves towards more networking in the platform
+			- and as such, they heavily penalize behaviors that go against the lowering of marginal cost of (gojek faces this kind of problem where you need a critical mass of driver & customers to make the market self-sustaining)
+	- and it seems like it's the revealed preference of a big chunk of the riders that they want \[abdefg\]
+- mengapa gojek tidak interoperabel dengan grab, mengapa instagram threads tidak dengan twitter, etc
+- I'd like to do an ode to gojek sometimes, that even though with all the supposedly (and oftentimes justifiably) oppressive features of gojek, gojek truly enables a better life abcd; that there's a very heavy status quo bias, that makes everything becomes normal
+- tidak ada diferensiasi yang jelas antara gojek dan grab, marketnya udah spent, 
+- gojek dan grab yang bersaing antar satu sama lain daripada driver individual yg bersaing satu sama lain?
 - 
+
+
+# Q2 - Why are there no Gojek-sponsored professorships/tenure positions in any Indonesian universities?
+- This is framed more like a rhetorical question, in the sense that I think there should absolutely be a
+- Also because Gojek represents a wealth of 
+- etnografi driver gojek grab
+
+# Q2 - Was the 'Merdeka Belajar' suite of policies successful?
+- I want to know the post-mortem
+- Also norm of public works
+- Also because Nadiem likes 'hyperiterating'
+
+---
+I've been meaning to make 
+The success of market
+
+
+
 
 %% ---
 

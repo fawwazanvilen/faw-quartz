@@ -6,7 +6,13 @@ modified:
 tags: 2025w12, stub
 ---
 
-to be filled
+Hey folks, thanks for \**check notes*\* ... waiting two months for the supposedly weekly series of [[Questions/]] to frame my week.
+
+This week's questions will be Gojek-adjacent (you'll see what I mean). So, without further ado, ...
+
+# Q1 - What explains 
+- 
+
 %% ---
 
 # Q1 - How much does it cost to have a good enough Lidar model of Jakarta?

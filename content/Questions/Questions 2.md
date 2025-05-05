@@ -6,16 +6,30 @@ modified:
 tags:
   - 2025w12
   - stub
+  - 2025w19
 ---
 
 Hey folks, thanks for \**check notes*\* ... waiting two months for the supposedly weekly series of [[Questions/]] to frame my week.
 
-This week's I will pose three [Gojek](https://en.wikipedia.org/wiki/Gojek)-adjacent questions. Why specifically Gojek? Well, though you can pose similar questions in the context of other large successful companies/private endeavors in Indonesia, Gojek represents one of the most successful in recent memories. There's this incredible (relative) concentration of talent, capital, and resources, with a culture driven by impact, that solves real problem for millions of people in Southeast Asia ... such that it's often kinda [weird](https://www.readthesequences.com/Noticing-Confusion-Sequence) to see the [founders](https://samoburja.com/gft/) of Gojek not solve the local [civilizational inadequacy](https://equilibriabook.com/an-equilibrium-of-no-free-energy/#:~:text=as%20you%20do.%E2%80%9D-,Adequacy,-%3A%20%E2%80%9COkay%2C%20the%20medical) that exists around them (or at least, not make a public stab at them). À la [J. Storrs Hall](https://press.stripe.com/where-is-my-flying-car), you can explain this seeming inadequacy in at least two ways: a failure of imagination & a failure of nerve. Through today's questions, I want to make an at least marginal improvements at solving the imagination part of the problem.  So, without further ado, ...
+This week's I will pose three [Gojek](https://en.wikipedia.org/wiki/Gojek)-adjacent questions. Why specifically Gojek? Well, though you can pose similar questions in the context of other large successful companies/private endeavors in Indonesia, Gojek represents one of the most successful in recent memories. There's this incredible (relative) concentration of talent, capital, and resources, with a culture driven by impact, that solves real problem for millions of people in Southeast Asia ... such that it's often kinda [weird](https://www.readthesequences.com/Noticing-Confusion-Sequence) to see the [founders](https://samoburja.com/gft/) of Gojek not solve the local [civilizational inadequacy](https://equilibriabook.com/an-equilibrium-of-no-free-energy/#:~:text=as%20you%20do.%E2%80%9D-,Adequacy,-%3A%20%E2%80%9COkay%2C%20the%20medical) that exists around them (or at least, not make a public stab at them). À la [J. Storrs Hall](https://press.stripe.com/where-is-my-flying-car), you can explain this seeming inadequacy in at least two ways: a failure of imagination & a failure of nerve. Through this week's questions, I want to make an at least marginal improvements at solving the 'imagination' part of the problem.  So, without further ado, ...
 
 ![[ojek.jpg]]
 
-# Q1 - What explains the rituals forming behind gig-driver communities in Indonesia?
-- 
+# Q1 - What explains the rituals forming behind gig-driver communities in Indonesia (and elsewhere)?
+
+Humans are really good at pattern-matching (communities of them, even more so), and it's been the story of our civilization that we create elaborate stories about how the world works that not only are ruthlessly optimized for fitness but also to satisfy our own [curiosities](https://www.lesswrong.com/posts/YshRbqZHYFoEMqFAu/why-truth), that doesn't always correspond to reality. 
+
+There's this general observation that we see when we have a group of humans interact iteratively with some opaque, [complex systems](https://www.lesswrong.com/posts/PtMtMBHRZgHuup8sS/on-complexity-science) and try to benefit from its interactions with them. At the limit, we expect 'instrumental rationality' and 'epistemic rationality' to converge with each other (due to [Dutch Book arguments](https://en.wikipedia.org/wiki/Dutch_book_theorems)), but as we're bounded agents, we face a very real trade-off between having good, well-specified, parsimonious, predictive models of reality vs  having quick, easy-to-calculate, portable, reliably-winning, biased-for-survival models for action. Some ways this have been remarked upon:
+- Kahneman's [System 1 & System 2](https://en.wikipedia.org/wiki/Thinking%2C_Fast_and_Slow) modes of thought.
+- James Scott's [Metis vs Episteme](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/).
+- "That’s the wrong question and it valorizes white institutions and white ways of knowing and being and structuring society in really problematic ways." - [legendary twet](https://fxtwitter.com/ka_hackett/status/1463196558267146240?lang=en)
+
+[One man's modus ponens](https://gwern.net/modus) is another's modus tollens, so there's at least two ways of acting when you see some elaborate body of knowledge 
+
+1. This society has built some elaborate 
+
+And it seems like a feature of [our times](https://www.overcomingbias.com/p/this-is-the-dream-timehtml) that we have so much [slack](https://www.lesswrong.com/posts/GZSzMqr8hAB2dR8pk/studies-on-slack) in our modern civilization that 
+
 - 'explains' is doing a lot of work here, and there are several interconnected questions behind the question above, which include
 	- dsaf
 - Not all information in the market are conveyed through price, 

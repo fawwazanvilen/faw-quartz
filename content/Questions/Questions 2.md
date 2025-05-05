@@ -1,18 +1,21 @@
 ---
-title: "Questions 2"
-created: "2025-03-17"
-published:
-modified:
-tags: 2025w12, stub
+title: Questions 2
+created: 2025-03-17
+published: 2025-05-05
+modified: 
+tags:
+  - 2025w12
+  - stub
 ---
 
 Hey folks, thanks for \**check notes*\* ... waiting two months for the supposedly weekly series of [[Questions/]] to frame my week.
 
-This week's I will pose three [Gojek](https://en.wikipedia.org/wiki/Gojek)-adjacent questions. Why specifically Gojek? Well, though you can pose similar questions in the context of other large successful companies/private endeavors in Indonesia, Gojek represents one of the most successful in recent memories. There's this incredible (relative) concentration of talent, capital, and resources, with a culture driven by impact, that solves real problem for millions of people in Southeast Asia ... such that it's often kinda [weird](https://www.readthesequences.com/Noticing-Confusion-Sequence) to see the [founders](https://samoburja.com/gft/) of Gojek not solve the local [civilizational inadequacy](https://equilibriabook.com/an-equilibrium-of-no-free-energy/#:~:text=as%20you%20do.%E2%80%9D-,Adequacy,-%3A%20%E2%80%9COkay%2C%20the%20medical) that exists around them (or at least, not make a public ). So, without further ado, ...
+This week's I will pose three [Gojek](https://en.wikipedia.org/wiki/Gojek)-adjacent questions. Why specifically Gojek? Well, though you can pose similar questions in the context of other large successful companies/private endeavors in Indonesia, Gojek represents one of the most successful in recent memories. There's this incredible (relative) concentration of talent, capital, and resources, with a culture driven by impact, that solves real problem for millions of people in Southeast Asia ... such that it's often kinda [weird](https://www.readthesequences.com/Noticing-Confusion-Sequence) to see the [founders](https://samoburja.com/gft/) of Gojek not solve the local [civilizational inadequacy](https://equilibriabook.com/an-equilibrium-of-no-free-energy/#:~:text=as%20you%20do.%E2%80%9D-,Adequacy,-%3A%20%E2%80%9COkay%2C%20the%20medical) that exists around them (or at least, not make a public stab at them). À la [J. Storrs Hall](https://press.stripe.com/where-is-my-flying-car), you can explain this seeming inadequacy in at least two ways: a failure of imagination & a failure of nerve. Through today's questions, I want to make an at least marginal improvements at solving the imagination part of the problem.  So, without further ado, ...
 
-
+![[ojek.jpg]]
 
 # Q1 - What explains the rituals forming behind gig-driver communities in Indonesia?
+- 
 - 'explains' is doing a lot of work here, and there are several interconnected questions behind the question above, which include
 	- dsaf
 - Not all information in the market are conveyed through price, 
@@ -25,7 +28,7 @@ This week's I will pose three [Gojek](https://en.wikipedia.org/wiki/Gojek)-adjac
 - I'd like to do an ode to gojek sometimes, that even though with all the supposedly (and oftentimes justifiably) oppressive features of gojek, gojek truly enables a better life abcd; that there's a very heavy status quo bias, that makes everything becomes normal
 - tidak ada diferensiasi yang jelas antara gojek dan grab, marketnya udah spent, 
 - gojek dan grab yang bersaing antar satu sama lain daripada driver individual yg bersaing satu sama lain?
-- 
+- commoditize their complement
 
 
 # Q2 - Why are there no Gojek-sponsored professorships/tenure positions in any Indonesian universities?

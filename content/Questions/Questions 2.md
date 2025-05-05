@@ -17,18 +17,27 @@ This week's I will pose three [Gojek](https://en.wikipedia.org/wiki/Gojek)-adjac
 
 # Q1 - What explains the rituals forming behind gig-driver communities in Indonesia (and elsewhere)?
 
-Humans are really good at pattern-matching (communities of them, even more so), and it's been the story of our civilization that we create elaborate stories about how the world works that not only are ruthlessly optimized for fitness but also to satisfy our own [curiosities](https://www.lesswrong.com/posts/YshRbqZHYFoEMqFAu/why-truth), that doesn't always correspond to reality. 
+Humans are really good at pattern-matching (communities of them, even more so), and it's been the story of our civilization that we create elaborate stories about how the world works that not only are ruthlessly optimized for fitness but also to satisfy our own [curiosities](https://www.lesswrong.com/posts/YshRbqZHYFoEMqFAu/why-truth), that doesn't always correspond to reality. %% And it seems like a feature of [our times](https://www.overcomingbias.com/p/this-is-the-dream-timehtml) that we have so much [slack](https://www.lesswrong.com/posts/GZSzMqr8hAB2dR8pk/studies-on-slack) in our modern civilization that  %%
 
 There's this general observation that we see when we have a group of humans interact iteratively with some opaque, [complex systems](https://www.lesswrong.com/posts/PtMtMBHRZgHuup8sS/on-complexity-science) and try to benefit from its interactions with them. At the limit, we expect 'instrumental rationality' and 'epistemic rationality' to converge with each other (due to [Dutch Book arguments](https://en.wikipedia.org/wiki/Dutch_book_theorems)), but as we're bounded agents, we face a very real trade-off between having good, well-specified, parsimonious, predictive models of reality vs  having quick, easy-to-calculate, portable, reliably-winning, biased-for-survival models for action. Some ways this have been remarked upon:
 - Kahneman's [System 1 & System 2](https://en.wikipedia.org/wiki/Thinking%2C_Fast_and_Slow) modes of thought.
-- James Scott's [Metis vs Episteme](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/).
+- James Scott's [Metis vs Episteme](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/), Illegibility vs Legibility, Anarchist Communes vs High Modern Authoritarians.
+- #belum-selesai
 - "That’s the wrong question and it valorizes white institutions and white ways of knowing and being and structuring society in really problematic ways." - [legendary twet](https://fxtwitter.com/ka_hackett/status/1463196558267146240?lang=en)
 
-[One man's modus ponens](https://gwern.net/modus) is another's modus tollens, so there's at least two ways of acting when you see some elaborate body of knowledge 
+[One man's modus ponens](https://gwern.net/modus) is another's modus tollens; and the usual modern way of responding when seeing these 'folk knowledge', '*[kearifan lokal](https://id.wikipedia.org/wiki/Kearifan_lokal)*' is to take the modus tollens like so:
 
-1. This society has built some elaborate 
+1. **If** we adopt this messy system of knowledge that's evolved against its local niches for an extended period of time, **then** we will gain fitness in our local niches
+2. We *in fact* have seen that groups of humans who have adopted this system of knowledge have lost, reproductive-fitness-wise ... we haven't seen their peoples, or cultures, or ideas take hold in our modern society.
+3. So, through modus tollens (i.e. taking the contrapositive of 1), we *shouldn't* adopt this system of knowledge.
 
-And it seems like a feature of [our times](https://www.overcomingbias.com/p/this-is-the-dream-timehtml) that we have so much [slack](https://www.lesswrong.com/posts/GZSzMqr8hAB2dR8pk/studies-on-slack) in our modern civilization that 
+The post-rat response to this is illustrated through [Chesterton's Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence): it's unwise to destroy a fence you see erected in the middle of the forest when you don't know what the reason behind it being erected. In other words, it's almost likely the case that when you have an evolved system built through patchworks and not through some totalizing first principles, it's not going to have some legible, cleanly-separated set of goals that it pursues. Throughout its exposure to its environments, it's gonna optimize for multiple problems at the same time (just like how [biology is so complex](https://en.wikipedia.org/wiki/Metabolic_pathway#Major_metabolic_pathways)). 'Gain Fitness' is *in fact* a multi-objective problem, and when you do away with some systems of knowledge that's been adaptive for an extended period of time (but not adaptive when seen through e.g. its value in the World Economy), you might risk trading off against some valuable things that you won't know about until it's too late.
+
+\#\#\#
+
+So, all that above is a long introduction to the question that I want to ask here. Gojek drivers face this management-by-algorithm that's opaque, and acts as a 
+
+
 
 - 'explains' is doing a lot of work here, and there are several interconnected questions behind the question above, which include
 	- dsaf

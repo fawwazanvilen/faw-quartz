@@ -58,28 +58,53 @@ const config: QuartzConfig = {
       //   },
       // },
       // sunset vibes
+      // colors: {
+      //   lightMode: {
+      //     light: "#fffcf9",
+      //     lightgray: "#ede3d9",
+      //     gray: "#c4b1a2",
+      //     darkgray: "#7d6b5d",
+      //     dark: "#352b24",
+      //     secondary: "#e07a5f", // terracotta
+      //     tertiary: "#f2cc8f", // warm yellow
+      //     highlight: "rgba(224, 122, 95, 0.15)",
+      //     textHighlight: "#81b29a88", // sage
+      //   },
+      //   darkMode: {
+      //     light: "#2b2427",
+      //     lightgray: "#3d353a",
+      //     gray: "#7a6c75",
+      //     darkgray: "#d8c9d3",
+      //     dark: "#f5ecf1",
+      //     secondary: "#e07a5f", // terracotta
+      //     tertiary: "#f2cc8f", // warm yellow
+      //     highlight: "rgba(242, 204, 143, 0.15)",
+      //     textHighlight: "#81b29a44", // sage
+      //   },
+      // },
+      // gruvbox colors
       colors: {
         lightMode: {
-          light: "#fffcf9",
-          lightgray: "#ede3d9",
-          gray: "#c4b1a2",
-          darkgray: "#7d6b5d",
-          dark: "#352b24",
-          secondary: "#e07a5f", // terracotta
-          tertiary: "#f2cc8f", // warm yellow
-          highlight: "rgba(224, 122, 95, 0.15)",
-          textHighlight: "#81b29a88", // sage
+          light: "#fbf1c7", // light bg
+          lightgray: "#ebdbb2", // light bg1
+          gray: "#bdae93", // gray
+          darkgray: "#665c54", // dark fg4
+          dark: "#282828", // dark bg
+          secondary: "#458588", // blue
+          tertiary: "#98971a", // green
+          highlight: "rgba(215, 153, 33, 0.15)", // orange with alpha
+          textHighlight: "#fabd2f88", // yellow with alpha
         },
         darkMode: {
-          light: "#2b2427",
-          lightgray: "#3d353a",
-          gray: "#7a6c75",
-          darkgray: "#d8c9d3",
-          dark: "#f5ecf1",
-          secondary: "#e07a5f", // terracotta
-          tertiary: "#f2cc8f", // warm yellow
-          highlight: "rgba(242, 204, 143, 0.15)",
-          textHighlight: "#81b29a44", // sage
+          light: "#282828", // dark bg
+          lightgray: "#3c3836", // dark bg1
+          gray: "#665c54", // gray
+          darkgray: "#bdae93", // light fg4
+          dark: "#fbf1c7", // light bg
+          secondary: "#83a598", // blue
+          tertiary: "#b8bb26", // green
+          highlight: "rgba(254, 128, 25, 0.15)", // orange with alpha
+          textHighlight: "#fabd2f44", // yellow with alpha
         },
       },
     },

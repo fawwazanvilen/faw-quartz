@@ -31,7 +31,7 @@ There's this general observation that we see when we have a group of humans inte
 2. We *in fact* have seen that groups of humans who have adopted this system of knowledge have lost, reproductive-fitness-wise ... we haven't seen their peoples, or cultures, or ideas take hold in our modern society.
 3. So, through modus tollens (i.e. taking the contrapositive of 1), we *shouldn't* adopt this system of knowledge.
 
-The post-rat response to this is illustrated through [Chesterton's Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence): it's unwise to destroy a fence you see erected in the middle of the forest when you don't know what the reason behind it being erected, it might be the case that the fence was put there to keep dangerous animals out. In other words, it's almost likely the case that when you have an evolved system built through patchworks and not through some totalizing first principles, it's not going to have some legible, cleanly-separated set of goals that it pursues. Throughout its exposure to its environments, it's gonna optimize for multiple problems at the same time (just like how [biology is so complex](https://en.wikipedia.org/wiki/Metabolic_pathway#Major_metabolic_pathways)). 'Gain Fitness' is *in fact* a multi-objective problem, and when you do away with some systems of knowledge that's been adaptive for an extended period of time (but not adaptive when seen through e.g. its value in the World Economy), you might risk trading off against some valuable things that you won't know about until it's too late.
+The [post-rat](https://en.wikipedia.org/wiki/Rationalist_community#Postrationalists) response to this is illustrated through [Chesterton's Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence): it's unwise to destroy a fence you see erected in the middle of the forest when you don't know what the reason behind it being erected, it might be the case that the fence was put there to keep dangerous animals out. In other words, it's almost likely the case that when you have an evolved system built through patchworks and not through some totalizing first principles, it's not going to have some legible, cleanly-separated set of goals that it pursues. Throughout its exposure to its environments, it's gonna optimize for multiple problems at the same time (just like how [biology is so complex](https://en.wikipedia.org/wiki/Metabolic_pathway#Major_metabolic_pathways)). 'Gain Fitness' is *in fact* a multi-objective problem, and when you do away with some systems of knowledge that's been adaptive for an extended period of time (but not adaptive when seen through e.g. its value in the World Economy), you might risk trading off against some valuable things that you won't know about until it's too late.
 
 ![Many such cases](https://imgs.xkcd.com/comics/dependency.png)
 *many such cases*
@@ -49,9 +49,57 @@ One tendency that you see among 'platform' tech monopolies is that they try to [
 Some illustrative examples,
 - #belum-selesai 
 
-Gojek also acts like this, in that it tries to commodify both its passengers, and drivers. On passenger-side, though, demand is already quite commoditized: you can easily treat different orders from different passengers as practically fungible, that only differ in one important respect (origin and destination location). This is arguably not true when you look at the situation driver-side. Gojek came in an environment where the dominant players are fragmented, local *ojek pangkalan* with its idiosyncrasies that are little monopolies of its own. This means that the existing stock of drivers can't be treated as fungible & interchangeable. Drivers have different equipments, with their own unique local knowledge, and with different preferences that might be very sticky (e.g. certain drivers might only want to receive orders from/to particular locations). This is a problem because this makes (at least some subset of) drivers as price-setters, and not price-takers, which takes away a portion of the consumer surplus from Gojek.
+Gojek also acts like this, in that it tries to commodify both its passengers, and drivers. On passenger-side, though, demand is already quite commoditized: you can easily treat different orders from different passengers as practically fungible, that only differ in one important respect (origin and destination location). This is arguably not true when you look at the situation driver-side. Gojek came in an environment where the dominant players are fragmented, local *ojek pangkalan* with its idiosyncrasies that are little monopolies of its own. This means that the existing stock of drivers can't be treated as fungible & interchangeable. Drivers have different equipment, with their own unique local knowledge, and with different preferences that might be very sticky (e.g. certain drivers might only want to receive orders from/to particular locations). This is a problem because this makes (at least some subset of) drivers as price-setters, and not price-takers, which takes away a portion of the consumer surplus from Gojek.
 
-The pressure to commoditize 
+
+> [!NOTE]- Title
+> #belum-selesai
+
+
+The pressure to commoditize drivers is also strengthened further by the fact that ride-hailing monopolies have [increasing returns to the scale of the networks](https://en.wikipedia.org/wiki/Network_effect) over which they have command. A big part of passengers' decision to use Gojek stems from the fact that Gojek has many drivers (who often use Gojek exclusively), and the converse of this is also true. This means it's in the best interest of the network to have a very liquid  insofar that driver idiosyncrasies create a very lumpy and
+
+(this is not to say it's bad, it is in fact good to have a place where wiling; but here my argument is that the way that Gojek enforces willingness is )
+
+To achieve a commoditization of drivers, Gojek employs hard rules and 
+- A heavy penalty against not accepting orders
+- Jacket, branding
+- ban against using other apps
+- heavy incentive against making their own list?
+- 
+- #belum-selesai 
+
+This means that the view that we have of ride-hailing platforms like Gojek that are shaped like "Gojek is a place where willing buyers and willing sellers " are at best incomplete. 
+
+Gojek (and other ride-hailing platforms, again to be clear) is pretty unique in that they employ matchmaking algorithms (unlike e.g. Tokopedia, or Amazon), and unlike explicit rules/incentives, it's often unclear why (interpretability moment)
+
+And at last!! Based on these background information, I want to pose the following questions:
+
+- An ethnography of Gojek drivers, in different cities etc
+- #belum-selesai 
+
+. . .
+
+One of the reasons why we tolerate monopolies is that \[abcd\] #belum-selesai 
+
+In this light, it's amazing that some proposals to curb the bad effects of ride-hailing monopolies like Gojek often extraordinarily miss the point, and in consequence seek to 
+- Price cap and floor
+- medallion stuff (like airport sticker thingy)
+- 
+
+that ben kuhn article
+
+talk a bit about how interoperability is such a good idea
+
+like usb c in eu, but also worry that this will stifle innovation
+
+==add your twet here==
+
+
+
+- 
+- 
+- This means that unlike the usual markets that we often encounter,
+- gvgvhg
 
 This poses a problem because this makes supply very lumpy and unpredictable. A bigger problem 
 
@@ -79,6 +127,12 @@ due to some realizations
 
 
 # Q2 - Why are there no Gojek-sponsored professorships/tenure positions in any Indonesian universities?
+
+Like google with search monopoly, they were able to abcd
+But this is a bit unfair because Gojek *is* unprofitable at the moment
+But abcdefg
+
+it's not incentives, it's you (that tal blog)
 - This is framed more like a rhetorical question, in the sense that I think there should absolutely be a
 - Also because Gojek represents a wealth of 
 - etnografi driver gojek grab

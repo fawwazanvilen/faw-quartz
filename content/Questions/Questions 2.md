@@ -34,7 +34,7 @@ There's this general observation that we see when we have a group of humans inte
 The post-rat response to this is illustrated through [Chesterton's Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence): it's unwise to destroy a fence you see erected in the middle of the forest when you don't know what the reason behind it being erected, it might be the case that the fence was put there to keep dangerous animals out. In other words, it's almost likely the case that when you have an evolved system built through patchworks and not through some totalizing first principles, it's not going to have some legible, cleanly-separated set of goals that it pursues. Throughout its exposure to its environments, it's gonna optimize for multiple problems at the same time (just like how [biology is so complex](https://en.wikipedia.org/wiki/Metabolic_pathway#Major_metabolic_pathways)). 'Gain Fitness' is *in fact* a multi-objective problem, and when you do away with some systems of knowledge that's been adaptive for an extended period of time (but not adaptive when seen through e.g. its value in the World Economy), you might risk trading off against some valuable things that you won't know about until it's too late.
 
 ![Many such cases](https://imgs.xkcd.com/comics/dependency.png)
-> *many such cases*
+*many such cases*
 
 To conclude a bit, we know that true knowledge should converge with the fact that it's useful, but as humans we face trade-offs between truth and usefulness ([all models are wrong](https://en.wikipedia.org/wiki/All_models_are_wrong) but some are useful), and we sometimes underestimate how useful some evolved systems of knowledge are, to our own detriment. This is essentially a problem of "**How Do We Deal with Wrong but Useful Knowledge?**".
 
@@ -42,7 +42,20 @@ To conclude a bit, we know that true knowledge should converge with the fact tha
 
 So, all that above is a long introduction to the question that I want to ask here. Gojek drivers face this management-by-algorithm that's opaque, and acts as an intermediary, a market maker if you will, between the drivers and the passengers. %% And this matchmaking algorithm  %%
 
-One tendency that you see among 'platform' tech companies that 
+One tendency that you see among 'platform' tech monopolies is that they try to [commoditize their complement](https://gwern.net/complement), where from Gwern,
+
+> "companies seek to secure a chokepoint or quasi-monopoly in products composed of many necessary & sufficient layers by dominating one layer while fostering so much competition in another layer above or below its layer that no competing monopolist can emerge, prices are driven down to marginal costs elsewhere in the stack, total price drops & increases demand, and the majority of the consumer surplus of the final product can be diverted to the quasi-monopolist."
+
+Some illustrative examples,
+- #belum-selesai 
+
+Gojek also acts like this, in that it tries to commodify both its passengers, and drivers. On passenger-side, though, demand is already quite commoditized: you can easily treat different orders from different passengers as practically fungible, that only differ in one important respect (origin and destination location). This is arguably not true when you look at the situation driver-side. Gojek came in an environment where the dominant players are fragmented, local *ojek pangkalan* with its idiosyncrasies that are little monopolies of its own. This means that the existing stock of drivers can't be treated as fungible & interchangeable. Drivers have different equipments, with their own unique local knowledge, and with different preferences that might be very sticky (e.g. certain drivers might only want to receive orders from/to particular locations). This is a problem because this makes (at least some subset of) drivers as price-setters, and not price-takers, which takes away a portion of the consumer surplus from Gojek.
+
+The pressure to commoditize 
+
+This poses a problem because this makes supply very lumpy and unpredictable. A bigger problem 
+
+One pressure that Gojek also faces as a 'platform' monopoly is that they rely heavily on network effect--which naturally tends to \[natural monopoly\] etc. 
 
 due to some realizations
 - Gojek (& Grab) is not *really* a market

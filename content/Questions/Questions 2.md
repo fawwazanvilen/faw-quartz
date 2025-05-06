@@ -33,11 +33,17 @@ There's this general observation that we see when we have a group of humans inte
 
 The post-rat response to this is illustrated through [Chesterton's Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence): it's unwise to destroy a fence you see erected in the middle of the forest when you don't know what the reason behind it being erected. In other words, it's almost likely the case that when you have an evolved system built through patchworks and not through some totalizing first principles, it's not going to have some legible, cleanly-separated set of goals that it pursues. Throughout its exposure to its environments, it's gonna optimize for multiple problems at the same time (just like how [biology is so complex](https://en.wikipedia.org/wiki/Metabolic_pathway#Major_metabolic_pathways)). 'Gain Fitness' is *in fact* a multi-objective problem, and when you do away with some systems of knowledge that's been adaptive for an extended period of time (but not adaptive when seen through e.g. its value in the World Economy), you might risk trading off against some valuable things that you won't know about until it's too late.
 
+To conclude a bit, we know that true knowledge should converge with the fact that it's useful, but as humans we face trade-offs between truth and usefulness ([all models are wrong](https://en.wikipedia.org/wiki/All_models_are_wrong) but some are useful), and we sometimes underestimate how useful some evolved systems of knowledge are, to our own detriment. This is essentially a problem of "How Do We Deal with Wrong but Useful Knowledge?".
+
 \#\#\#
 
-So, all that above is a long introduction to the question that I want to ask here. Gojek drivers face this management-by-algorithm that's opaque, and acts as a 
+So, all that above is a long introduction to the question that I want to ask here. Gojek drivers face this management-by-algorithm that's opaque, and acts as an intermediary, a market maker between the drivers and the passengers. And this matchmaking algorithm 
 
-
+due to some realizations
+- Gojek (& Grab) is not *really* a market
+	- But Gojek is commoditizing their complement?
+	- What does Gojek sell really?
+	- 
 
 - 'explains' is doing a lot of work here, and there are several interconnected questions behind the question above, which include
 	- dsaf

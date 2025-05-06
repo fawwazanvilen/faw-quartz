@@ -38,7 +38,7 @@ The [post-rat](https://en.wikipedia.org/wiki/Rationalist_community#Postrationali
 
 To conclude a bit, we know that true knowledge should converge with the fact that it's useful, but as humans we face trade-offs between truth and usefulness ([all models are wrong](https://en.wikipedia.org/wiki/All_models_are_wrong) but some are useful), and we sometimes underestimate how useful some evolved systems of knowledge are, to our own detriment. This is essentially a problem of "**How Do We Deal with Wrong but Useful Knowledge?**".
 
-. . .
+---
 
 So, all that above is a long introduction to the question that I want to ask here. Gojek drivers face this management-by-algorithm that's opaque, and acts as an intermediary, a market maker if you will, between the drivers and the passengers. %% And this matchmaking algorithm  %%
 
@@ -49,24 +49,33 @@ One tendency that you see among 'platform' tech monopolies is that they try to [
 Some illustrative examples,
 - #belum-selesai 
 
-Gojek also acts like this, in that it tries to commodify both its passengers, and drivers. On passenger-side, though, demand is already quite commoditized: you can easily treat different orders from different passengers as practically fungible, that only differ in one important respect (origin and destination location). This is arguably not true when you look at the situation driver-side. Gojek came in an environment where the dominant players are fragmented, local *ojek pangkalan* with its idiosyncrasies that are little monopolies of its own. This means that the existing stock of drivers can't be treated as fungible & interchangeable. Drivers have different equipment, with their own unique local knowledge, and with different preferences that might be very sticky (e.g. certain drivers might only want to receive orders from/to particular locations). This is a problem because this makes (at least some subset of) drivers as price-setters, and not price-takers, which takes away a portion of the consumer surplus from Gojek.
+Gojek also acts like this, in that it tries to commodify both its passengers, and drivers. On passenger-side, though, demand is already quite commoditized: you can easily treat different orders from different passengers as practically fungible, that only differ in one important respect (origin and destination location).
 
+This is arguably not true when you look at the situation driver-side. Gojek came in an environment where the dominant players are fragmented, local *ojek pangkalan* with its idiosyncrasies that are little monopolies of its own. This means that the existing stock of drivers can't be treated as fungible & interchangeable. Drivers have different equipment, with their own unique local knowledge, and with different preferences that might be very sticky (e.g. certain drivers might only want to receive orders from/to particular locations). This is a problem because this makes (at least some subset of) drivers as price-setters, and not price-takers, which takes away a portion of the consumer surplus from Gojek.
 
-> [!NOTE]- Title
-> #belum-selesai
+> [!NOTE]- On local knowledge of drivers
+> It used to be that one of the biggest barriers to entry to becoming a driver in a particular locale is your knowledge of routes and roads and landmarks, so much so that there were ([are still](https://www.nytimes.com/2014/11/10/t-magazine/london-taxi-test-knowledge.html)) examinations that test aspiring drivers' knowledge of their city. But due to Moore's law making compute easily available in everyone's pocket (smartphones), and Google's monopoly on search making them able to provide free map tile & routing service for everyone (Google Maps), there is practically no more moat by having a back-of-the-hand knowledge of your city.
 
+The pressure to commoditize drivers is also strengthened further by the fact that ride-hailing monopolies have [increasing returns to the scale of the networks](https://en.wikipedia.org/wiki/Network_effect) over which they have command. A big part of passengers' decision to use Gojek stems from the fact that Gojek has many drivers (who often use Gojek exclusively), and the converse of this is also true. Thus, insofar that drivers idiosyncrasies induce very lumpy, unpredictable, and uneven supply; and insofar that this feeds back negatively into would-be passengers' decision to use the platform; it's in the best interest of the network to enforce some kind of standardization over its drivers.
 
-The pressure to commoditize drivers is also strengthened further by the fact that ride-hailing monopolies have [increasing returns to the scale of the networks](https://en.wikipedia.org/wiki/Network_effect) over which they have command. A big part of passengers' decision to use Gojek stems from the fact that Gojek has many drivers (who often use Gojek exclusively), and the converse of this is also true. This means it's in the best interest of the network to have a very liquid  insofar that driver idiosyncrasies create a very lumpy and
-
-(this is not to say it's bad, it is in fact good to have a place where wiling; but here my argument is that the way that Gojek enforces willingness is )
-
-To achieve a commoditization of drivers, Gojek employs hard rules and 
-- A heavy penalty against not accepting orders
-- Jacket, branding
-- ban against using other apps
-- heavy incentive against making their own list?
+To achieve the commoditization of its drivers, Gojek employs [hard rules](https://www.gojek.com/blog/gojek/daftar-pelanggaran-tata-tertib-gojek) and soft incentives, such as
+- An obligation to wear the characteristic bright green jacket and helmet
+- Heavy penalty against [taking orders off-app](https://katadata.co.id/digital/startup/6544b6b6e0c58/sanksi-ojol-ambil-order-tanpa-aplikasi-di-gojek-grab-maxim-indrive), this includes enforcing anonymized contact and [funneling all driver-passenger comms in-app](https://medium.com/gojekengineering/behind-the-screens-the-evolution-of-gojeks-user-communications-63eb6f81acdb)
+- Heavy penalty against refusing orders (unspecified times) in a row/a period of time
+- Ban against using other apps
 - 
 - #belum-selesai 
+
+This is not to say that the commoditization itself is bad. In fact it's a central theme of humanity's progress over the past few  By enabling standardization among drivers, 
+
+There's argument to be made that the transition should be made clearer to its drivers, and I can see how the argument 
+
+Marxists think this is very similar to 'reserve army of labor'
+
+Whether you think this **Great Commodification of Drivers** is (net) Bad or Good, this phenomenon results in a few interesting things, that I'm asking questions about,
+- 
+
+(his is not to say it's bad, it is in fact good to have a place where wiling; but here my argument is that the way that Gojek enforces willingness is )
 
 This means that the view that we have of ride-hailing platforms like Gojek that are shaped like "Gojek is a place where willing buyers and willing sellers " are at best incomplete. 
 
@@ -77,7 +86,7 @@ And at last!! Based on these background information, I want to pose the followin
 - An ethnography of Gojek drivers, in different cities etc
 - #belum-selesai 
 
-. . .
+---
 
 One of the reasons why we tolerate monopolies is that \[abcd\] #belum-selesai 
 

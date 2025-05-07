@@ -62,92 +62,85 @@ To achieve the commoditization of its drivers, Gojek employs [hard rules](https:
 - An obligation to wear the characteristic bright green jacket and helmet
 - Mandatory use of driver apps, even for functions other than receiving orders, like navigation, viewing earnings.
 - Heavy penalty against [taking orders off-app](https://katadata.co.id/digital/startup/6544b6b6e0c58/sanksi-ojol-ambil-order-tanpa-aplikasi-di-gojek-grab-maxim-indrive), this includes enforcing anonymized contact and [funneling all driver-passenger comms in-app](https://medium.com/gojekengineering/behind-the-screens-the-evolution-of-gojeks-user-communications-63eb6f81acdb)
-- Heavy penalty against refusing orders (unspecified times) in a row/a period of time
+- Heavy penalty against refusing orders (unspecified times) in a row for a period of time
 - Ban against using other competing ride-hailing apps
 - Platform-set fares, drivers can't negotiate prices with customers; this makes service predictable for customers and positions drivers as price-takers
-- Centralized payment system, that reduces 
+- Centralized payment system, that reduces direct financial interactions between drivers and passengers
 - Bonus and incentive schemes to even out distribution of supply, like bonus that's tied with the number of trips, or bonus on certain periods of times for drivers in certain cities 
-- Some algorithmic matchmaking procedure that ostensibly optimizes for some relevant performance measure (number of trips, rating of drivers/passengers, total rupiah amount, trip fulfillment, bid/order acceptance, etc)
 - Some gamified system of internal status
+- Some algorithmic matchmaking procedure that ostensibly optimizes for some relevant performance measure (number of trips, rating of drivers/passengers, total rupiah amount, trip fulfillment, bid/order acceptance, etc)
 
 Most of these rules and incentives are not obligatory, and their enforcement is not perfect, but the sum effect of them to the pool of Gojek drivers looks eerily similar to what it would've looked like if the drivers were to be organized in a command-and-control manner like you'd see in most other companies. This is essentially the thrust of the argument that 'Drivers as Workers' groups have: if it quacks like a duck then we should probably recognize it as a duck.
 
-This means that the view that we have of ride-hailing platforms like Gojek that are shaped like "Gojek is *just* a place where willing sellers of the service of motorcycle rides and wiling " are at best incomplete and at worst a veil for some 
+This means that the view that we have of ride-hailing platforms like Gojek that are shaped like "Gojek is *just* a place where willing sellers of the service of motorcycle rides and wiling buyers of said service meet and transact with each other" are at best incomplete and at worst a plausible-deniability veil for Gojek lobbyists. 
 
-But I still think that the partner (*mitra*) - worker (*pekerja*) distinction is meaningful here, or at least that they should exist in a spectrum here instead of a binary. The key thing that most Gojek drivers trade stability for is fundamentally *choice*. Gojek drivers at the end of the day are not forced to follow certain schedules, or take orders from certain places; and insofar that they are
+But I still think that the partner (*mitra*) - worker (*pekerja*) distinction is meaningful here, or at least that they should exist in a spectrum here instead of a binary. The key thing that most Gojek drivers trade stability for is fundamentally *choice*. Gojek drivers at the end of the day are not forced to follow certain schedules, or take orders from certain places; and insofar that they are *forced* to do something then we should regulate them less like a partner and more like a worker. We've also got to remind ourselves that Indonesia pre-Omnibus Law for Job Creation (Cipta Kerja) had a very rigid labor law, [one of the most generous in the world for the amount of severance & redundancy pay](https://eplex.ilo.org/en/redundancy-and-severance-pay) it mandates to be given to workers. The fact that Gojek has scaled so quickly is also an evidence towards there being a huge latent supply of willing drivers that couldn't provide the service because there were no visible/contestable markets they could offer their service in.
 
-And Indonesia pre-Omnibus Law (Cipta Kerja)
+This is also not to say that the commoditization itself is bad. In fact it's a central theme of humanity's progress over the past few centuries that we achieved them through the slow and gradual unraveling of barriers to trade amongst ourselves, enabling labor and capital and technology and information to flow to where they're needed the most. I want to continue to remind people that *at the very least* the first order effect of Gojek is good: there are millions of contrafactual transactions totaling trillions of rupiahs in economic value that wouldn't have happened if it were not for the existence of ride-hailing platforms like Gojek.
 
-This is also not to say that the commoditization itself is bad. In fact it's a central theme of humanity's progress over the past few centuries that we achieved them through the slow and gradual unraveling of barriers to trade amongst ourselves, enabling labor and capital to flow to where they're needed the most. By enabling standardization among drivers, 
+What makes Gojek (and other ride-hailing platforms, again to be clear) unique relative to other 'platform' monopolies here is that they employ **opaque matchmaking algorithms heavily** (unlike e.g. Tokopedia, or Amazon, which convey more information through reviews and prices). Unlike with explicit rules/incentives, it's often ==unclear why (interpretability moment)==
 
-I hate marxists who say things like 'logic of the market' because the 'logic of the market' is just a way in which they want to say 'i hate competition' lmao
+There's argument to be made that the transition should be made clearer to its drivers, and I can see how the argument for greater recognition for drivers as workers resonates emotionally here. You can tell a very simil==ar story ==
 
-There's still argument to be made that the transition should be made clearer to its drivers, and I can see how the argument (like I very much understand how Luddism took ground in industrializing 18th century England)
+Theories about Alienation is theories about encountering an alien deterritorializing force that knows no bounds no taboo and profanes everything it touches
+a memetically 
+(like I very much understand how Luddism took ground in industrializing 18th century England)
 
-Marxists think this is very similar to 'reserve army of labor'
-
-Whether you think this **Great Commodification of Drivers** is (net) Bad or Good, this phenomenon results in a few interesting things, that I'm asking questions about,
+With all that being said, whether you think this **Great Commodification of Drivers**[^1] is (net) Bad or Good, this phenomenon (of Gojek Drivers ) results in a few interesting things, that I'm asking questions about,
 - abc
 
 (his is not to say it's bad, it is in fact good to have a place where wiling; but here my argument is that the way that Gojek enforces willingness is )
 
-This means that the view that we have of ride-hailing platforms like Gojek that are shaped like "Gojek is a place where willing buyers and willing sellers " are at best incomplete. 
-
-Gojek (and other ride-hailing platforms, again to be clear) is pretty unique in that they employ matchmaking algorithms (unlike e.g. Tokopedia, or Amazon), and unlike explicit rules/incentives, it's often unclear why (interpretability moment)
-
-And at last!! Based on these background information, I want to pose the following questions:
-
 - An ethnography of Gojek drivers, in different cities etc
 - #belum-selesai 
 
----
 
-One of the reasons why we tolerate monopolies is that \[abcd\] #belum-selesai 
-
-In this light, it's amazing that some proposals to curb the bad effects of ride-hailing monopolies like Gojek often extraordinarily miss the point, and in consequence seek to 
-- Price cap and floor
-- medallion stuff (like airport sticker thingy)
-- 
-
-that ben kuhn article
-
-talk a bit about how interoperability is such a good idea
-
-like usb c in eu, but also worry that this will stifle innovation
-
-==add your twet here==
-
-
-
-- 
-- 
-- This means that unlike the usual markets that we often encounter,
-- gvgvhg
-
-This poses a problem because this makes supply very lumpy and unpredictable. A bigger problem 
-
-One pressure that Gojek also faces as a 'platform' monopoly is that they rely heavily on network effect--which naturally tends to \[natural monopoly\] etc. 
-
-due to some realizations
-- Gojek (& Grab) is not *really* a market
-	- But Gojek is commoditizing their complement?
-	- What does Gojek sell really?
-	- 
-
-- 'explains' is doing a lot of work here, and there are several interconnected questions behind the question above, which include
-	- dsaf
-- Not all information in the market are conveyed through price, 
-	- why does algorithmic management feel so oppressive? alienation
-- Network-effect monopolies are not that free market as they'd like to present themselves
-	- they are biasing themselves towards more networking in the platform
-			- and as such, they heavily penalize behaviors that go against the lowering of marginal cost of (gojek faces this kind of problem where you need a critical mass of driver & customers to make the market self-sustaining)
-	- and it seems like it's the revealed preference of a big chunk of the riders that they want \[abdefg\]
-- mengapa gojek tidak interoperabel dengan grab, mengapa instagram threads tidak dengan twitter, etc
-- I'd like to do an ode to gojek sometimes, that even though with all the supposedly (and oftentimes justifiably) oppressive features of gojek, gojek truly enables a better life abcd; that there's a very heavy status quo bias, that makes everything becomes normal
-- tidak ada diferensiasi yang jelas antara gojek dan grab, marketnya udah spent, 
-- gojek dan grab yang bersaing antar satu sama lain daripada driver individual yg bersaing satu sama lain?
-- commoditize their complement
-
+> [!NOTE]- On how we should tolerate network-effect monopolies
+> Contents
+> One of the reasons why we tolerate monopolies is that \[abcd\] #belum-selesai 
+> 
+> In this light, it's amazing that some proposals to curb the bad effects of ride-hailing monopolies like Gojek often extraordinarily miss the point, and in consequence seek to 
+> - Price cap and floor
+> - medallion stuff (like airport sticker thingy)
+> - 
+> 
+> that ben kuhn article
+> 
+> talk a bit about how interoperability is such a good idea
+> 
+> like usb c in eu, but also worry that this will stifle innovation
+> 
+> ==add your twet here==
+> 
+> 
+> 
+> - 
+> - 
+> - This means that unlike the usual markets that we often encounter,
+> - gvgvhg
+> 
+> This poses a problem because this makes supply very lumpy and unpredictable. A bigger problem 
+> 
+> One pressure that Gojek also faces as a 'platform' monopoly is that they rely heavily on network effect--which naturally tends to \[natural monopoly\] etc. 
+> 
+> due to some realizations
+> - Gojek (& Grab) is not *really* a market
+> 	- But Gojek is commoditizing their complement?
+> 	- What does Gojek sell really?
+> 	- 
+> 
+> - 'explains' is doing a lot of work here, and there are several interconnected questions behind the question above, which include
+> 	- dsaf
+> - Not all information in the market are conveyed through price, 
+> 	- why does algorithmic management feel so oppressive? alienation
+> - Network-effect monopolies are not that free market as they'd like to present themselves
+> 	- they are biasing themselves towards more networking in the platform
+> 			- and as such, they heavily penalize behaviors that go against the lowering of marginal cost of (gojek faces this kind of problem where you need a critical mass of driver & customers to make the market self-sustaining)
+> 	- and it seems like it's the revealed preference of a big chunk of the riders that they want \[abdefg\]
+> - mengapa gojek tidak interoperabel dengan grab, mengapa instagram threads tidak dengan twitter, etc
+> - I'd like to do an ode to gojek sometimes, that even though with all the supposedly (and oftentimes justifiably) oppressive features of gojek, gojek truly enables a better life abcd; that there's a very heavy status quo bias, that makes everything becomes normal
+> - tidak ada diferensiasi yang jelas antara gojek dan grab, marketnya udah spent, 
+> - gojek dan grab yang bersaing antar satu sama lain daripada driver individual yg bersaing satu sama lain?
 
 # Q2 - Why are there no Gojek-sponsored professorships/tenure positions in any Indonesian universities?
 
@@ -171,58 +164,6 @@ I've been meaning to make
 The success of market
 
 
-
-
-%% ---
-
-# Q1 - How much does it cost to have a good enough Lidar model of Jakarta?
-
-
-# Q2 - How much does it cost Jakarta to have empty lands near MRT?
-
-# Q3 - How much does it cost to maintain Jakarta's security theater? What's the benefit if any?
-
-
-
-
-4. Why have **Special Economic Zones** largely failed in Indonesia when they worked so well elsewhere in Asia?
-	- adsfasdfasd
-
----
-
-5. Is there a **shortage of doctors** in Indonesia? Is IDI (the Indonesian Medical Association) acting like a cartel in this regard? 
-	- IDI against expanding the presence of foreign doctors in Indonesia.
-	- Occupational license to practice between regions with different IDI jurisdictions
-	- Criticism against AMA
-	- philippine export healthcare workers
-	- also that one ssc article on ireland doctor licensing?
-	- [Tackling the ‘nursing exodus’ in the Philippines   - HMA](https://www.hospitalmanagementasia.com/talent-skills/tackling-the-nursing-exodus-in-the-philippines/)
-	- Ahli Gigi vs Dokter Gigi? how
- %%
-
-%% 6. what's the ACTUAL economic impact of indonesia's cabotage laws and resource nationalism policies? (pure rent-seeking or genuine development strategy?)
-3. why is internal migration in indonesia so much lower than what wage differentials would predict?
-4. why have special economic zones largely failed in indonesia when they worked so well elsewhere in asia?
-5. does indonesia's decentralization actually improve governance or just decentralize corruption opportunities?
-6. wtf is going on with indonesia's productivity numbers? they don't make sense given the education levels and investment rates
-7. how much do political connections still determine business success post-reformasi? has it just gotten more subtle?
-8. why hasn't jakarta's financial sector developed deeper capital markets despite its size and growth? is it regulatory, cultural, or something else?
-9. why has indonesia maintained such low government debt ratios despite obvious infrastructure needs? is this fiscal conservatism actually optimal?
-10.  why has the palm oil industry become so politically powerful while other agricultural sectors remain fragmented? 
-11. what's behind the MASSIVE regional variation in female labor force participation across indonesia?
-12. how much economic value is lost due to indonesia's bizarre electricity pricing and subsidy system?
-13.  how do remittances from indonesian migrant workers (TKI) actually get allocated at the household level?  
-14. what explains the weird pattern of FDI in indonesia - heavily skewed toward services and extraction but not manufacturing? 
-15. is there a measurable "papua discount" in terms of the additional costs of doing business in eastern indonesia?
-16. how much economic activity is driven by pesantren networks and islamic economic institutions?
-17. is idi functioning as a cartel or legitimate professional standards body? how do their restrictions affect healthcare access vs quality?
-18. do indonesian agricultural cycles (like cattle/pork) follow traditional economic models or are they distorted by religious factors and import policies?
-19.  has ojol (online ojek) actually increased labor market efficiency or just changed how rents are distributed? 
-20. is telkom/indihome effectively extracting monopoly rents despite nominal competition in telecom?
-21.  how much do ethnic chinese business networks still dominate certain sectors, and has this changed post-reformasi? 
-22. do indonesia's notoriously frequent minimum wage hikes actually reduce poverty or just drive informality? 
-23. how much economic activity happens through arisan (rotating savings groups) vs formal banking?
-24.  has the haze from palm oil burning created measurable productivity losses across sectors? 
-25. does the bulog rice price stabilization system actually benefit farmers or just middlemen? 
-26.  are indonesia's property developers effectively land banks with construction divisions rather than actual homebuilders?
-27.  %%
+[^1]: Marxists think this is very similar to the concept of *reserve army of labor*, whereby capitalists deliberately keep a surplus of workers in deteriorating conditions to keep labor costs low - which tbf again has that [conflict vs mistake theory](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/)  
+	
+	It might have some grain of truth to it? In that one of the key factors that enabled Japan to succeed in its textile industrialization was through[ keeping wages depressed](https://pseudoerasmus.com/2017/10/02/ijd/) whilst productivity went up, i.e. doing away with the prevailing piece-rate mechanism to compensate labor and instead replacing it with **hourly wages**.

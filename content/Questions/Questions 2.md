@@ -46,7 +46,7 @@ But first, a segue on why Gojek's interaction with its drivers the way it is: on
 
 > "companies seek to secure a chokepoint or quasi-monopoly in products composed of many necessary & sufficient layers by dominating one layer while fostering so much competition in another layer above or below its layer that no competing monopolist can emerge, prices are driven down to marginal costs elsewhere in the stack, total price drops & increases demand, and the majority of the consumer surplus of the final product can be diverted to the quasi-monopolist."
 
-Some illustrative examples,
+Some illustrative examples (still from Gwern),
 - #belum-selesai 
 
 Gojek also acts like this, in that it tries to commodify both its passengers, and drivers. On passenger-side, though, demand is already quite commoditized: you can easily treat different orders from different passengers as practically fungible, that only differ in one important respect (origin and destination location).
@@ -78,14 +78,12 @@ This means that the view that we have of ride-hailing platforms like Gojek that 
 > But I still think that the partner (*mitra*) - worker (*pekerja*) distinction is meaningful here, or at least that they should exist in a spectrum here instead of a binary. The key thing that most Gojek drivers trade stability for is fundamentally *choice*. Gojek drivers at the end of the day are not forced to follow certain schedules, or take orders from certain places; and insofar that they are *forced* to do something then we should regulate them less like a partner and more like a worker. We've also got to remind ourselves that Indonesia pre-Omnibus Law for Job Creation (Cipta Kerja) had a very rigid labor law, [one of the most generous in the world for the amount of severance & redundancy pay](https://eplex.ilo.org/en/redundancy-and-severance-pay) it mandates to be given to workers. The fact that Gojek has scaled so quickly is also an evidence towards there being a huge latent supply of willing drivers that couldn't provide the service because there were no visible/contestable markets they could offer their service in.
 > 
 > This is also not to say that the commoditization itself is bad. In fact it's a central theme of humanity's progress over the past few centuries that we achieved them through the slow and gradual unraveling of barriers to trade amongst ourselves, enabling labor and capital and technology and information to flow to where they're needed the most. **I want to continue to remind people that *at the very least* the first order effect of Gojek is good**: there are millions of contrafactual transactions totaling trillions of rupiahs in economic value that wouldn't have happened if it were not for the existence of ride-hailing platforms like Gojek.
+> 
+> Again, we have so many things (at least in Indonesia's big cities) that we now take for granted. #belum-selesai
 
 What makes Gojek (and other ride-hailing platforms, again to be clear) unique relative to other 'platform' monopolies here is that they employ **opaque matchmaking algorithms heavily** (unlike e.g. Tokopedia, or Amazon, which convey more information through reviews and prices). And unlike with explicit rules/incentives, it's often unclear to the drivers why ([interpretability moment](https://www.lesswrong.com/w/interpretability-ml-and-ai)) the algorithm nudges them to act out in a certain manner. And viewed in this light, it's pretty clear that this story is very similar to the story of [alienation](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation) that played out in the industrializing economies of the 19th century[^2].
 
-There's argument to be made that the transition should be made clearer to its drivers, and I can see how the argument for greater recognition for drivers as workers resonates emotionally here. 
-
-Theories about Alienation is theories about encountering an alien deterritorializing force that knows no bounds no taboo and profanes everything it touches
-a memetically p
-(like I very much understand how Luddism took ground in industrializing 18th century England)
+There's argument to be made that the transition should be made clearer to its drivers, and I can see how the argument for greater recognition for drivers as workers resonates emotionally here. In the long run we're all dead,  
 
 With all that being said, whether you think this **Great Commodification of Drivers**[^1] is (net) Bad or Good, this phenomenon (of Gojek Dr==ivers== ) results in a few interesting things, that I'm asking questions about,
 - abc
@@ -96,7 +94,7 @@ With all that being said, whether you think this **Great Commodification of Driv
 - #belum-selesai 
 
 
-> [!NOTE]- On how we should tolerate network-effect monopolies
+> [!NOTE]- On how we should deal with network-effect monopolies
 > Contents
 > One of the reasons why we tolerate monopolies is that \[abcd\] #belum-selesai 
 > 
@@ -149,6 +147,11 @@ Like google with search monopoly, they were able to abcd
 But this is a bit unfair because Gojek *is* unprofitable at the moment
 But abcdefg
 
+how google does research
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38149.pdf
+
+
+
 it's not incentives, it's you (that tal blog)
 - This is framed more like a rhetorical question, in the sense that I think there should absolutely be a
 - Also because Gojek represents a wealth of 
@@ -169,8 +172,10 @@ The success of market
 	
 	It might have some grain of truth to it? In that one of the key factors that enabled Japan to succeed in its textile industrialization was through[ keeping wages depressed](https://pseudoerasmus.com/2017/10/02/ijd/) whilst productivity went up, i.e. doing away with the prevailing piece-rate mechanism to compensate labor and instead replacing it with **hourly wages**.
 
-[^2]: Theories about Alienation are theories about encountering an alien, deterritorializing force that knows no bounds, no taboos, and profanes everything it touches.
+[^2]: Theories about Alienation are essentially theories about encountering an alien, deterritorializing force that knows no bounds, no taboos, and profanes everything it touches.
+	
+	(à la Nick Land - Capitalism as an alien entity reaching out across time seeding itself to humanity's past to assemble itself in the future) (which is crazy because [how intelligent something must be to anticipate the various ways humanity could evolve in the future](https://www.lesswrong.com/posts/SwcyMEgLyd4C3Dern/the-parable-of-predict-o-matic)) (the more boring explanation is that Capitalism is *just* like pipes, [it's an instrumentally useful way](https://www.lesswrong.com/w/instrumental-convergence#:~:text=Suppose%20you%20landed%20on%20a%20distant%20planet%20and%20found%20a%20structure%20of%20giant%20metal%20pipes%2C%20crossed%20by%20occasional%20cables.%20Further%20investigation%20shows%20that%20the%20cables%20are%20electrical%20superconductors%20carrying%20high%2Dvoltage%20currents.) of allocating resources, just like pipes are a useful form factor to move liquid)
 	
 	You can understand phenomena like Luddism, which I struggled to understand before, why would anyone be against increasing productivity (╭ರ_•́). But this is easier to understand when you see this a first-contact story, of a group of people meeting an alien force that is the constant flattening into money ('exchange value' as Marx would term it) of everything by the market.
 	
-	I have some sympathy towards this view of society, but we often have 
+	I have some sympathy towards this view of society, but we often have very romanticized view of the past, and deep bias for the status quo, such that it's often hard to really grok how improved the life of the median person has been since our [economy grew exponentially](https://ourworldindata.org/what-is-economic-growth) (i.e. how it seems normal to just expect total economic output to grow a fixed X amount of percent), and how we can [still be better](https://ourworldindata.org/much-better-awful-can-be-better).

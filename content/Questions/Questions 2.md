@@ -33,9 +33,10 @@ There's this general observation that we see when we have a group of humans inte
 
 The [post-rat](https://en.wikipedia.org/wiki/Rationalist_community#Postrationalists) response to this is illustrated through [Chesterton's Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence): it's unwise to destroy a fence you see erected in the middle of the forest when you don't know what the reason behind it being erected, it might be the case that the fence was put there to keep dangerous animals out. In other words, it's almost likely the case that when you have an evolved system built through patchworks and not through some totalizing first principles, it's not going to have some legible, cleanly-separated set of goals that it pursues. Throughout its exposure to its environments, it's gonna optimize for multiple problems at the same time (just like how [biology is so complex](https://en.wikipedia.org/wiki/Metabolic_pathway#Major_metabolic_pathways)). 'Gain Fitness' is *in fact* a multi-objective problem, and when you do away with some systems of knowledge that's been adaptive for an extended period of time (but not adaptive when seen through e.g. its value in the World Economy), you might risk trading off against some valuable things that you won't know about until it's too late.
 
-![Many such cases](https://imgs.xkcd.com/comics/dependency.png)
-*many such cases*
-
+<div style="text-align: center;">
+  <img src="https://imgs.xkcd.com/comics/dependency.png" alt="XKCD Dependency Comic" />
+  <p>*many such cases*</p>
+</div>
 To conclude a bit, we know that true knowledge should converge with the fact that it's useful, but as humans we face trade-offs between truth and usefulness ([all models are wrong](https://en.wikipedia.org/wiki/All_models_are_wrong) but some are useful), and we sometimes underestimate how useful some evolved systems of knowledge are, to our own detriment. This is essentially a problem of "**How Do We Deal with Wrong but Useful Knowledge?**".
 
 ---

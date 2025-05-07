@@ -42,7 +42,7 @@ To conclude a bit, we know that true knowledge should converge with the fact tha
 
 So, all that above is a long introduction to the question that I want to ask here. Gojek drivers face this management-by-algorithm that's opaque, and acts as an intermediary, a market maker if you will, between the drivers and the passengers. %% And this matchmaking algorithm  %%
 
-One tendency that you see among 'platform' tech monopolies is that they try to [commoditize their complement](https://gwern.net/complement), where from Gwern,
+One tendency that you see among 'platform' tech monopolies is that they try to [commoditize their complement](https://gwern.net/complement), where (from Gwern),
 
 > "companies seek to secure a chokepoint or quasi-monopoly in products composed of many necessary & sufficient layers by dominating one layer while fostering so much competition in another layer above or below its layer that no competing monopolist can emerge, prices are driven down to marginal costs elsewhere in the stack, total price drops & increases demand, and the majority of the consumer surplus of the final product can be diverted to the quasi-monopolist."
 
@@ -60,20 +60,34 @@ The pressure to commoditize drivers is also strengthened further by the fact tha
 
 To achieve the commoditization of its drivers, Gojek employs [hard rules](https://www.gojek.com/blog/gojek/daftar-pelanggaran-tata-tertib-gojek) and soft incentives, such as
 - An obligation to wear the characteristic bright green jacket and helmet
+- Mandatory use of driver apps, even for functions other than receiving orders, like navigation, viewing earnings.
 - Heavy penalty against [taking orders off-app](https://katadata.co.id/digital/startup/6544b6b6e0c58/sanksi-ojol-ambil-order-tanpa-aplikasi-di-gojek-grab-maxim-indrive), this includes enforcing anonymized contact and [funneling all driver-passenger comms in-app](https://medium.com/gojekengineering/behind-the-screens-the-evolution-of-gojeks-user-communications-63eb6f81acdb)
 - Heavy penalty against refusing orders (unspecified times) in a row/a period of time
-- Ban against using other apps
-- 
-- #belum-selesai 
+- Ban against using other competing ride-hailing apps
+- Platform-set fares, drivers can't negotiate prices with customers; this makes service predictable for customers and positions drivers as price-takers
+- Centralized payment system, that reduces 
+- Bonus and incentive schemes to even out distribution of supply, like bonus that's tied with the number of trips, or bonus on certain periods of times for drivers in certain cities 
+- Some algorithmic matchmaking procedure that ostensibly optimizes for some relevant performance measure (number of trips, rating of drivers/passengers, total rupiah amount, trip fulfillment, bid/order acceptance, etc)
+- Some gamified system of internal status
 
-This is not to say that the commoditization itself is bad. In fact it's a central theme of humanity's progress over the past few  By enabling standardization among drivers, 
+Most of these rules and incentives are not obligatory, and their enforcement is not perfect, but the sum effect of them to the pool of Gojek drivers looks eerily similar to what it would've looked like if the drivers were to be organized in a command-and-control manner like you'd see in most other companies. This is essentially the thrust of the argument that 'Drivers as Workers' groups have: if it quacks like a duck then we should probably recognize it as a duck.
 
-There's argument to be made that the transition should be made clearer to its drivers, and I can see how the argument 
+This means that the view that we have of ride-hailing platforms like Gojek that are shaped like "Gojek is *just* a place where willing sellers of the service of motorcycle rides and wiling " are at best incomplete and at worst a veil for some 
+
+But I still think that the partner (*mitra*) - worker (*pekerja*) distinction is meaningful here, or at least that they should exist in a spectrum here instead of a binary. The key thing that most Gojek drivers trade stability for is fundamentally *choice*. Gojek drivers at the end of the day are not forced to follow certain schedules, or take orders from certain places; and insofar that they are
+
+And Indonesia pre-Omnibus Law (Cipta Kerja)
+
+This is also not to say that the commoditization itself is bad. In fact it's a central theme of humanity's progress over the past few centuries that we achieved them through the slow and gradual unraveling of barriers to trade amongst ourselves, enabling labor and capital to flow to where they're needed the most. By enabling standardization among drivers, 
+
+I hate marxists who say things like 'logic of the market' because the 'logic of the market' is just a way in which they want to say 'i hate competition' lmao
+
+There's still argument to be made that the transition should be made clearer to its drivers, and I can see how the argument (like I very much understand how Luddism took ground in industrializing 18th century England)
 
 Marxists think this is very similar to 'reserve army of labor'
 
 Whether you think this **Great Commodification of Drivers** is (net) Bad or Good, this phenomenon results in a few interesting things, that I'm asking questions about,
-- 
+- abc
 
 (his is not to say it's bad, it is in fact good to have a place where wiling; but here my argument is that the way that Gojek enforces willingness is )
 
@@ -146,6 +160,7 @@ it's not incentives, it's you (that tal blog)
 - Also because Gojek represents a wealth of 
 - etnografi driver gojek grab
 
+a more academic/mathematic/operations research treatment of their matchmaking algorithm, some sort of cross pollination would be useful??
 # Q2 - Was the 'Merdeka Belajar' suite of policies successful?
 - I want to know the post-mortem
 - Also norm of public works

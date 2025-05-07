@@ -35,8 +35,8 @@ The [post-rat](https://en.wikipedia.org/wiki/Rationalist_community#Postrationali
 
 <div style="text-align: center;">
   <img src="https://imgs.xkcd.com/comics/dependency.png" alt="XKCD Dependency Comic" />
-  <p>*many such cases*</p>
 </div>
+
 To conclude a bit, we know that true knowledge should converge with the fact that it's useful, but as humans we face trade-offs between truth and usefulness ([all models are wrong](https://en.wikipedia.org/wiki/All_models_are_wrong) but some are useful), and we sometimes underestimate how useful some evolved systems of knowledge are, to our own detriment. This is essentially a problem of "**How Do We Deal with Wrong but Useful Knowledge?**".
 
 ---
@@ -75,7 +75,7 @@ Most of these rules and incentives are not obligatory, and their enforcement is 
 
 This means that the view that we have of ride-hailing platforms like Gojek that are shaped like "Gojek is *just* a place where willing sellers of the service of motorcycle rides and wiling buyers of said service meet and transact with each other" are at best incomplete and at worst a plausible-deniability veil for Gojek lobbyists. 
 
-> [!NOTE]- On the partner (*mitra*) - worker (*pekerja*) distinction
+> [!NOTE]- On the partner (mitra) - worker (pekerja) distinction
 > But I still think that the partner (*mitra*) - worker (*pekerja*) distinction is meaningful here, or at least that they should exist in a spectrum here instead of a binary. The key thing that most Gojek drivers trade stability for is fundamentally *choice*. Gojek drivers at the end of the day are not forced to follow certain schedules, or take orders from certain places; and insofar that they are *forced* to do something then we should regulate them less like a partner and more like a worker. We've also got to remind ourselves that Indonesia pre-Omnibus Law for Job Creation (Cipta Kerja) had a very rigid labor law, [one of the most generous in the world for the amount of severance & redundancy pay](https://eplex.ilo.org/en/redundancy-and-severance-pay) it mandates to be given to workers. The fact that Gojek has scaled so quickly is also an evidence towards there being a huge latent supply of willing drivers that couldn't provide the service because there were no visible/contestable markets they could offer their service in.
 > 
 > This is also not to say that the commoditization itself is bad. In fact it's a central theme of humanity's progress over the past few centuries that we achieved them through the slow and gradual unraveling of barriers to trade amongst ourselves, enabling labor and capital and technology and information to flow to where they're needed the most. **I want to continue to remind people that *at the very least* the first order effect of Gojek is good**: there are millions of contrafactual transactions totaling trillions of rupiahs in economic value that wouldn't have happened if it were not for the existence of ride-hailing platforms like Gojek.

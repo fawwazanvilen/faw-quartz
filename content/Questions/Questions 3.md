@@ -1,7 +1,6 @@
 ---
-draft: "True"
+draft: "true"
 ---
-
 
 %% ---
 # Q2 - Why are there no Gojek-sponsored professorships/tenure positions in any Indonesian universities?

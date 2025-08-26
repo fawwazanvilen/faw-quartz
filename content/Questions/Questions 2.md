@@ -80,7 +80,7 @@ This means that the view that we have of ride-hailing platforms like Gojek that 
 > 
 > This is also not to say that the commoditization itself is bad. In fact it's a central theme of humanity's progress over the past few centuries that we achieved them through the slow and gradual unraveling of barriers to trade amongst ourselves, enabling labor and capital and technology and information to flow to where they're needed the most. **I want to continue to remind people that *at the very least* the first order effect of Gojek is good**: there are millions of contrafactual transactions totaling trillions of rupiahs in economic value that wouldn't have happened if it were not for the existence of ride-hailing platforms like Gojek.
 > 
-> Again, we have so many things (at least in Indonesia's big cities) that we now take for granted. #belum-selesai
+> Again, we have so many things (at least in Indonesia's big cities) that we now take for granted.
 
 What makes Gojek (and other ride-hailing platforms, again to be clear) unique relative to other 'platform' monopolies here is that they employ **opaque matchmaking algorithms heavily** (unlike e.g. Tokopedia, or Amazon, which convey more information through reviews and prices). And unlike with explicit rules/incentives, it's often unclear to the drivers why ([interpretability moment](https://www.lesswrong.com/w/interpretability-ml-and-ai)) the algorithm nudges them to act out in a certain manner. And viewed in this light, it's pretty clear that this story is very similar to the story of [alienation](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation) that played out in the industrializing economies of the 19th century[^2].
 

@@ -4,6 +4,31 @@ draft: "True"
 
 
 %% ---
+# Q2 - Why are there no Gojek-sponsored professorships/tenure positions in any Indonesian universities?
+
+Like google with search monopoly, they were able to abcd
+But this is a bit unfair because Gojek *is* unprofitable at the moment
+But abcdefg
+
+how google does research
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38149.pdf
+
+
+it's not incentives, it's you (that tal blog)
+- This is framed more like a rhetorical question, in the sense that I think there should absolutely be a
+- Also because Gojek represents a wealth of 
+- etnografi driver gojek grab
+
+a more academic/mathematic/operations research treatment of their matchmaking algorithm, some sort of cross pollination would be useful??
+# Q2 - Was the 'Merdeka Belajar' suite of policies successful?
+- I want to know the post-mortem
+- Also norm of public works
+- Also because Nadiem likes 'hyperiterating'
+
+---
+I've been meaning to make 
+The success of market
+
 
 # Q1 - How much does it cost to have a good enough Lidar model of Jakarta?
 

@@ -5,18 +5,16 @@ published: 2025-05-05
 modified: 2025-08-26
 tags:
   - 2025w12
-  - stub
   - 2025w19
   - 2025w35
 ---
-
 Hey folks, thanks for \**check notes*\* ... waiting two months for the supposedly weekly series of [[Questions/]] to frame my week.
 
 This week's I will pose three [Gojek](https://en.wikipedia.org/wiki/Gojek)-adjacent questions. Why specifically Gojek? Well, though you can pose similar questions in the context of other large successful companies/private endeavors in Indonesia, Gojek represents one of the most successful in recent memories. There's this incredible (relative) concentration of talent, capital, and resources, with a culture driven by impact, that solves real problem for millions of people in Southeast Asia ... such that it's often kinda [weird](https://www.readthesequences.com/Noticing-Confusion-Sequence) to see the [founders](https://samoburja.com/gft/) of Gojek not solve the local [civilizational inadequacy](https://equilibriabook.com/an-equilibrium-of-no-free-energy/#:~:text=as%20you%20do.%E2%80%9D-,Adequacy,-%3A%20%E2%80%9COkay%2C%20the%20medical) that exists around them (or at least, not make a public stab at them). À la [J. Storrs Hall](https://press.stripe.com/where-is-my-flying-car), you can explain this seeming inadequacy in at least two ways: a failure of imagination & a failure of nerve. Through this week's questions, I want to make an at least marginal improvements at solving the 'imagination' part of the problem.  So, without further ado, ...
 
 ![[ojek.jpg]]
 
-# Q1 - What explains the rituals forming behind gig-driver communities in Indonesia (and elsewhere)?
+# Q1 What explains the rituals forming behind gig-driver communities in Indonesia (and elsewhere)?
 
 Humans are really good at pattern-matching (communities of them, even more so), and it's been the story of our civilization that we create elaborate stories about how the world works that not only are ruthlessly optimized for fitness but also to satisfy our own [curiosities](https://www.lesswrong.com/posts/YshRbqZHYFoEMqFAu/why-truth), that doesn't always correspond to reality. And it seems like a feature of [our times](https://www.overcomingbias.com/p/this-is-the-dream-timehtml) that we have so much [slack](https://www.lesswrong.com/posts/GZSzMqr8hAB2dR8pk/studies-on-slack) in our modern civilization that we are able to live with beliefs that don't really correspond to reality, beliefs that are not straightly fitness enhancing.
 
@@ -92,37 +90,12 @@ With all that being said, whether you think this **Great Commodification of Driv
 
 - What are some of the **specific driver heuristics** that they use to maintain some notion of performance? There's talks about '[akun gacor](https://www.facebook.com/groups/227645551655083/posts/1292004805219147/)', particular accounts with favorable bidding power than others, and the **folk, unfalsifiable theories** on how to maintain it: is it about never rejecting orders? about being online at specific times? about physically being near a certain gofood merchant before they even get an order?
 - The existence of a **low-grade arms race between legibility and illegibility**. The platform's goal is to have a totally legible, commoditized, and standard supply of drivers. But this legibility imposes costs, reduces autonomy, and may drive down their revenue as they become more replaceable. For example, Gojek introduces measures to atomize and track drivers (in-app chat, anonymized numbers). drivers respond by creating illegible, off-platform counter-networks (whatsapp groups for sharing tips, coordinating, and warning each other). Gojek's algorithm dictates routes and incentives; drivers respond with technological insurgency like GPS-spoofing apps (`tuyul`) to game the system.
-- 
-
-- **a fundamental shift in the definition of "driver skill."** traditionally, the core skill of an _ojek_ driver was deep, local knowledge (_metis_): knowing the back alleys (`jalan tikus`), traffic patterns, and how to negotiate. the platform renders this knowledge largely obsolete with google maps. the NEW core skill is **algorithmic literacy**—the ability to intuit, manipulate, and endure the whims of the matchmaking system. the commodification isn't just about making drivers interchangeable; it's about devaluing one set of human-centric skills and replacing it with another, platform-centric one. the ideal driver is no longer the one who knows the city best, but the one who best performs the role of a compliant node for the algorithm.
+- One way you can think of this legibility-illegibility dynamic is that the legible represents some low-dimensional mapping, the emphasizing of some useful aspects of reality, from the high-dimensional potentially unknowable noumenal reality. In other words, because all agents in our universe found themselves to be a subset of this universe ('[Embedded Agents](https://www.lesswrong.com/w/embedded-agency)'), they must necessarily compress the universe into a workable world-model[^3] to orient themselves and determine next course of action in. This means that a consequentialist-enough agent would want to make a (legible) map of reality that's close to the (illegible) reality. One obvious way you can do this is to make your map as faithful to reality as possible. Another way you can do this is through making *reality* as close to your map as possible.  This interaction is made even more dominant insofar that the particular ways of your map-making enable you to influence the reality even more (as it is the case with our 'maps' of science and technology[^5], or statecraft and ideology[^4]). All this is to say, one way the 'legible' 'black-box'[^6] algorithms of Gojek affect reality is through making its drivers more malleable to the implied 'shape' of the driver that the revealed preferences of millions of customers want. **What is this shape of the Ur-Driver**? A common theme of market failures is [coordination problem](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) (where locally optimal decisions yield in [globally inadequate, sometimes horrifying, equilibria](https://equilibriabook.com)), and how different methods of aggregating preferences seems to yield inconsistent results (e.g. elections in a per-individual basis vs per-[community](https://en.wikipedia.org/wiki/Communitarianism)/[corporate](https://en.wikipedia.org/wiki/Corporatism) basis, or democratic elections vs democratic market). **Is this the shape of Ur-Driver that we want to exist in our society**?[^7]
 
 More: [on how we should deal with network-effect monopolies](https://www.benkuhn.net/nwe/).
-# Q2 - Why are there no Gojek-sponsored professorships/tenure positions in any Indonesian universities?
-
-Like google with search monopoly, they were able to abcd
-But this is a bit unfair because Gojek *is* unprofitable at the moment
-But abcdefg
-
-how google does research
-https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38149.pdf
-
-
-
-it's not incentives, it's you (that tal blog)
-- This is framed more like a rhetorical question, in the sense that I think there should absolutely be a
-- Also because Gojek represents a wealth of 
-- etnografi driver gojek grab
-
-a more academic/mathematic/operations research treatment of their matchmaking algorithm, some sort of cross pollination would be useful??
-# Q2 - Was the 'Merdeka Belajar' suite of policies successful?
-- I want to know the post-mortem
-- Also norm of public works
-- Also because Nadiem likes 'hyperiterating'
 
 ---
-I've been meaning to make 
-The success of market
-
+No more questions, I think that's enough for now lol. If you've come this far, whew, thanks for bearing with me! Hoped it made sense hahah.
 
 [^1]: Marxists think this is very similar to the concept of *reserve army of labor*, whereby capitalists deliberately keep a surplus of workers in deteriorating conditions to keep labor costs low - which tbf again has that [conflict vs mistake theory](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/) texture to it.
 	
@@ -135,3 +108,13 @@ The success of market
 	You can understand phenomena like Luddism, which I struggled to understand before, why would anyone be against increasing productivity (╭ರ_•́). But this is easier to understand when you see this a first-contact story, of a group of people meeting an alien force that is the constant flattening into money ('exchange value' as Marx would term it) of everything by the market.
 	
 	I have some sympathy towards this view of society, but we often have very romanticized view of the past, and deep bias for the status quo, such that it's often hard to really grok how improved the life of the median person has been since our [economy grew exponentially](https://ourworldindata.org/what-is-economic-growth) (i.e. how it seems normal to just expect total economic output to grow a fixed X amount of percent), and how we can [still be better](https://ourworldindata.org/much-better-awful-can-be-better).
+
+[^3]: The problem of finding the '[true](https://samoburja.com/on-building-theories-of-history/)' theory of history
+
+[^4]: Marx's 11th Thesis on Feuerbach, "The philosophers have only interpreted the world in various ways; the point is, to change it"
+
+[^5]: And this has been a very productive area of scientific speculation, some stuff I'm reminded of when talking about this map-territory dynamic: [Parable of Predict-O-Matic](https://www.lesswrong.com/posts/SwcyMEgLyd4C3Dern/the-parable-of-predict-o-matic), [The Whispering Earring](https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html), [On Exactitude in Science](https://en.wikipedia.org/wiki/On_Exactitude_in_Science),  [Garden as control over nature](https://en.wikipedia.org/wiki/Garden#:~:text=The%20single%20feature%20identifying%20even%20the%20wildest%20wild%20garden%20is%20control).
+
+[^6]: One way to resolve this tension is to clarify, legible *as opposed to what*? And in this case, those legible maps that enable more capabilities to flow into them (or more specifically, those maps that interact well with the prevailing institutions that we use to allocate resource and status) are the maps that would win out in this dynamic. And this aggregated preferences [need](https://en.wikipedia.org/wiki/The_Use_of_Knowledge_in_Society) [not](https://web.archive.org/web/20250531054103/https://i.4pcdn.org/tg/1544970209613.pdf) be at all legible to its constituent parts (!).
+
+[^7]: Again, it is the case that for thousands of years we have chosen stability over the dynamic creative destructive power of the market. And it turned out that, we were at least directionally wrong on the cost/benefits calculation of applying the awesome powers of the market in our society.
